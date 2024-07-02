@@ -1,0 +1,164 @@
+▪ For instance, in the United States private business
+investments in IT increased from less than 100 billion
+dollars in 1980 to more than 500 billion dollars in 2010
+▪ Moreover, the proportion of IT investments in total capital
+investments grew from 32% in 1980 to 52% in 2010
+▪ Over the decade from 2007 to 2017 average IT budgets
+as a percentage of revenue increased almost by 75%,
+from 3.50% of revenue in 2007 to 6.08% of revenue in
+2017
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #4The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+IT Systems Are Becoming More Powerful
+▪ Over the time, information systems become more
+powerful, ubiquitous, diverse and affordable
+▪ The computing power and storage capacity of IT
+systems are increasing exponentially
+▪ Business applications now can be deployed on
+dedicated servers, hosted in the cloud, run in web
+browsers and even installed on handheld mobile devices
+▪ Packaged systems available today include various ERP,
+CRM, SCM, BI, ECM, KM and other offerings
+▪ The relative price of information systems is gradually
+decreasing making different IT systems more accessible
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #5The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Use of IT Systems in Organizations
+▪ The productive use of information systems for improving
+the quality of business processes in organizations is not
+equivalent merely to installing the appropriate software
+and hardware
+▪ Instead, the productive use of information systems
+always requires consistent and coordinated changes in
+three broad organizational aspects:
+• People
+• Processes
+• Technology
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #6The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+People, Processes and Technology
+▪ People aspect:
+• Providing the necessary education and training to system users
+• Explaining benefits of the new system, coping with resistance
+• Dealing with political, cultural and power redistribution issues
+▪ Processes aspect:
+• Introducing new business processes enabled by the system
+• Modifying existing business processes affected by the system
+• Modifying relevant decision-making procedures and rules
+▪ Technology aspect:
+• Setting up the new IT system and required infrastructure
+• Making the new system available to its end users
+• Providing technical and help desk support to end users
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #7The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Business Benefits of IT Systems
+▪ The proper use of information systems can deliver
+numerous business benefits and open multiple
+innovative opportunities to organizations:
+• Improve or automate business processes
+• Reduce costs and delays
+• Enable analytical capabilities
+• Support executive decision-making
+• Enable information sharing with partners, e.g.
+in supply chains
+• Facilitate effective knowledge exchange between employees
+• Provide new customer communication channels
+• Create new innovative products and services
+• Develop entirely new business models
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #8The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+IT Systems and Competitive Advantage
+▪ Information systems can help organizations execute their
+business strategies and gain strategic competitive
+advantage:
+• Operational excellence and cost leadership – IT systems can be
+used to automate operations, eliminate delays and deviations,
+avoid manual labor and achieve predictable business processes
+• Product differentiation and leadership – IT systems can be used
+to facilitate the design of new products, support teamwork and
+creativity or provide unique innovative products and services
+• Customer intimacy and focus – IT systems can be used to collect
+and store customer data, analyze customer preferences, target
+specific customer groups and develop highly customized offers
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #9The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Disruptive Technologies
+▪ The dynamic technological environment also poses
+significant threats to many organizations
+▪ So-called disruptive technologies have the potential to
+make entire industries irrelevant and reshape the global
+competitive landscape:
+• Yesterday the publishing industry had been disrupted by
+electronic books (e-books), while the recording industry had
+been disrupted by the Internet-based delivery of audio files
+• Today the propagation of mobile devices, big data, Facebook,
+YouTube and other social media disrupts many industries
+• Tomorrow the Internet of things, industrial 3D printing, artificial
+intelligence, blockchain-based technologies, electric and
+driverless cars will disrupt many conventional industries
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #10The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+IT Systems and Compliance
+▪ The proper use of information systems in organizations
+became a subject of strict regulatory control
+▪ National governments enacted legislative compliance
+acts intended to regulate access, sharing and protection
+of sensitive information stored in corporate IT systems,
+e.g.
+SOX in the USA and GDPR in the European Union
+▪ Organizations are liable for incompliance with various
+data protection acts established in their jurisdictions
+▪ Therefore, information systems provide numerous
+benefits, opportunities, threats and obligations to
+organizations and their management is now a direct
+responsibility of business executives
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #11The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Organizations as Socio-Technical Systems
+▪ Many or even most organizations today essentially
+experience the convergence of business and IT
+▪ Business capabilities of a modern organization are often
+determined largely by the capabilities of its IT systems
+▪ Modern organizations represent complex socio-
+technical systems consisting of diverse but interacting
+human actors, business processes and IT systems
+▪ Business activities and IT landscapes enabling these
+activities represent “two sides of the same coin”
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #12The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Organizations as Evolving Systems
+▪ Modern organizations represent decentralized, dynamic
+and constantly evolving socio-technical systems
+▪ Decision-making processes are distributed across
+multiple global and local decision-makers
+▪ Organizations are self-evolving entities, where actors
+belonging to the organizational system gradually modify
+this system by their daily decisions and actions
+▪ Organizations always evolve organically, rather than
+mechanically
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #13The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Business and IT People in Organizations
+▪ Business managers and IT specialists in organizations
+are partners with significantly different duties
+▪ Business managers represent a “frontend” responsible
+for analyzing the external business environment and
+determining the direction for evolving the organization
+▪ IT specialists represent a “backend” responsible for
+modifying the IT landscape to enable the evolution of the
+organization towards the direction defined by business
+▪ Put it simply, business decides what needs to be done,
+while IT responds to these decisions
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #14The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The View of a Modern Organization
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #15The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Consequences for Planning
+▪ The nature of modern organizations has two critical
+implications from the perspective of their planning
+▪ Firstly, all the ongoing changes in business and IT parts
+of an organization should be synchronized
+▪ Secondly, organizations should be planned based on the
+balance of global and local interests
+▪ Therefore, organizations should align both short-term
+and long-term changes in their IT landscapes to their
+business plans, strategies and goals
+▪ In other words, organizations should strive for so-called
+business and IT alignment
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #16The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Notion of Business and IT Alignment
+▪ The effective use of IT in organizations requires
+achieving business and IT alignment
+▪ Business and IT alignment implies that the IT goals,
+plans and systems in an organization are consistent with
+its business goals, plans and processes
+▪ Business and IT alignment increases the payoff from IT

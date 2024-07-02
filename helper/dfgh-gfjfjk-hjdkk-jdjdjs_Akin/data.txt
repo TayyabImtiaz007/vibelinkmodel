@@ -1,0 +1,1123 @@
+I believe that men have the divine imperative to become as capable, powerful and competent as possible in this life.I reserve my human right to hold my own beliefs and practice themas I see fit and allow other people the same right to believe and act as they wish.I prefer loving rewarding consensual relationships with beautifulpositive and virtuous women.I believe men and women are different and that each has their own unique and important strengths and abilities.
+I believe men have the sacred duty to protect and provide for the important people in their lives.I believe men have the sacred duty to protect the innocence andsanctity of their children and reserve the right and responsibility to raise their children as they see best to ensure their long-term happiness and success.I believe that men have the sacred duty to raise strong capable andhonorable sons.I believe that men have the sacred duty to raise kind feminine and virtuous daughters.I utterly disprove of violence within romantic or familiarrelationships.I support good and honest governments who will obey their laws.I believe that men have the sacred duty to rigorously train themselves both physically and mentally every day.I believe that I have the sacred duty to only eat the highest qualityfoods possible.I reserve the right to protect the sanctity of my bloodstream and make my own decisions about medical care and procedures.I affirm the importance of endlessly improving my mental facultiesthrough diligent work, study and practice.I believe in acquiring wealth and abundance in order to improve my life and do good for those I care about.I believe in the merits of healthy competition and constantlyencourage all men to seek out competition to improve themselves.I believe that masculine brotherhood is essential to men’s mentalhealth, happiness and success.
+And I relentlessly encourage men to meet together, train together and work together.I maintain the trust of my brothers through reverent silence,regarding our most sacred and shared experiences.I believe in honoring my ancestors and living in a way that would make most of them proud of me today.I reserve the right to administer difficult rites of passage for ouryoung men to allow them to earn the rank of manhood.I affirm the importance and need for travel and adventure as men.I seek to help men overcome poor mental health throughembracing hard work, physical improvements and shared masculine brotherhood.I reserve the right to make the best choices I can at the time toprotect myself and respect my mental health.I do good in the world and seek to help those less fortunate.I believe all men have the responsibility to lead and guide those they care about for greater health, prosperity and happiness.I choose to only interact with those who are respectful and civil tome in return for my own respectfulness and civility.I reserve the freedom to speak and refer to others as I believe is bestand most truthful.I reserve the right to choose my company and include only those whom I believe are best for my health, happiness and success.I believe I have an imperative to only spend my time that Idetermine is beneficial, uplifting and empowering to myself and others.I choose to only allow myself to be influenced by those who I believe have my best interests in mind.Each day I dedicate myself to create anew the greatest possiblepositive impact on the world and do the work necessary to achieve a greater masculine excellence across all realms of human endeavor.
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/333680855
+Lecture 1: Introduction
+Presentation · June 2019
+CITATIONS READS
+2 3,867
+1 author:
+Svyatoslav Kotusev
+University of Melbourne
+68 PUBLICATIONS 816 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Svyatoslav Kotusev on 25 December 2019.
+The user has requested enhancement of the downloaded file.L 1
+ECTURE
+Introduction
+Svyatoslav Kotusev, PhD
+Copyright © 2019 by Svyatoslav Kotusev.
+All rights reserved.The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+In This Lecture
+▪ The critical importance of IT for modern business
+▪ Modern organizations as complex socio-technical
+systems of business and IT
+▪ The problem of achieving business and IT alignment
+▪ The concept of enterprise architecture as a potential
+solution to the problem of alignment
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #2The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Role of IT in Modern Organizations
+▪ Most organizations today are critically dependent on
+information technology (IT) in their daily operations
+▪ Large organizations often run and maintain thousands of
+various IT systems enabling their business processes
+▪ Moreover, the influence of IT systems on business
+models of organizations is continuously increasing
+▪ Historically, the role of IT in organizations evolved from a
+purely technical and supporting function to a more
+strategic or even business-enabling function
+▪ Information systems often become a backbone of major
+organizational changes and transformations
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #3The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Investments in IT Are Growing
+▪ Capital investments in IT systems and infrastructure are
+steadily increasing over the last decades
+▪ For instance, in the United States private business
+investments in IT increased from less than 100 billion
+dollars in 1980 to more than 500 billion dollars in 2010
+▪ Moreover, the proportion of IT investments in total capital
+investments grew from 32% in 1980 to 52% in 2010
+▪ Over the decade from 2007 to 2017 average IT budgets
+as a percentage of revenue increased almost by 75%,
+from 3.50% of revenue in 2007 to 6.08% of revenue in
+2017
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #4The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+IT Systems Are Becoming More Powerful
+▪ Over the time, information systems become more
+powerful, ubiquitous, diverse and affordable
+▪ The computing power and storage capacity of IT
+systems are increasing exponentially
+▪ Business applications now can be deployed on
+dedicated servers, hosted in the cloud, run in web
+browsers and even installed on handheld mobile devices
+▪ Packaged systems available today include various ERP,
+CRM, SCM, BI, ECM, KM and other offerings
+▪ The relative price of information systems is gradually
+decreasing making different IT systems more accessible
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #5The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Use of IT Systems in Organizations
+▪ The productive use of information systems for improving
+the quality of business processes in organizations is not
+equivalent merely to installing the appropriate software
+and hardware
+▪ Instead, the productive use of information systems
+always requires consistent and coordinated changes in
+three broad organizational aspects:
+• People
+• Processes
+• Technology
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #6The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+People, Processes and Technology
+▪ People aspect:
+• Providing the necessary education and training to system users
+• Explaining benefits of the new system, coping with resistance
+• Dealing with political, cultural and power redistribution issues
+▪ Processes aspect:
+• Introducing new business processes enabled by the system
+• Modifying existing business processes affected by the system
+• Modifying relevant decision-making procedures and rules
+▪ Technology aspect:
+• Setting up the new IT system and required infrastructure
+• Making the new system available to its end users
+• Providing technical and help desk support to end users
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #7The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Business Benefits of IT Systems
+▪ The proper use of information systems can deliver
+numerous business benefits and open multiple
+innovative opportunities to organizations:
+• Improve or automate business processes
+• Reduce costs and delays
+• Enable analytical capabilities
+• Support executive decision-making
+• Enable information sharing with partners, e.g.
+in supply chains
+• Facilitate effective knowledge exchange between employees
+• Provide new customer communication channels
+• Create new innovative products and services
+• Develop entirely new business models
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #8The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+IT Systems and Competitive Advantage
+▪ Information systems can help organizations execute their
+business strategies and gain strategic competitive
+advantage:
+• Operational excellence and cost leadership – IT systems can be
+used to automate operations, eliminate delays and deviations,
+avoid manual labor and achieve predictable business processes
+• Product differentiation and leadership – IT systems can be used
+to facilitate the design of new products, support teamwork and
+creativity or provide unique innovative products and services
+• Customer intimacy and focus – IT systems can be used to collect
+and store customer data, analyze customer preferences, target
+specific customer groups and develop highly customized offers
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #9The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Disruptive Technologies
+▪ The dynamic technological environment also poses
+significant threats to many organizations
+▪ So-called disruptive technologies have the potential to
+make entire industries irrelevant and reshape the global
+competitive landscape:
+• Yesterday the publishing industry had been disrupted by
+electronic books (e-books), while the recording industry had
+been disrupted by the Internet-based delivery of audio files
+• Today the propagation of mobile devices, big data, Facebook,
+YouTube and other social media disrupts many industries
+• Tomorrow the Internet of things, industrial 3D printing, artificial
+intelligence, blockchain-based technologies, electric and
+driverless cars will disrupt many conventional industries
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #10The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+IT Systems and Compliance
+▪ The proper use of information systems in organizations
+became a subject of strict regulatory control
+▪ National governments enacted legislative compliance
+acts intended to regulate access, sharing and protection
+of sensitive information stored in corporate IT systems,
+e.g.
+SOX in the USA and GDPR in the European Union
+▪ Organizations are liable for incompliance with various
+data protection acts established in their jurisdictions
+▪ Therefore, information systems provide numerous
+benefits, opportunities, threats and obligations to
+organizations and their management is now a direct
+responsibility of business executives
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #11The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Organizations as Socio-Technical Systems
+▪ Many or even most organizations today essentially
+experience the convergence of business and IT
+▪ Business capabilities of a modern organization are often
+determined largely by the capabilities of its IT systems
+▪ Modern organizations represent complex socio-
+technical systems consisting of diverse but interacting
+human actors, business processes and IT systems
+▪ Business activities and IT landscapes enabling these
+activities represent “two sides of the same coin”
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #12The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Organizations as Evolving Systems
+▪ Modern organizations represent decentralized, dynamic
+and constantly evolving socio-technical systems
+▪ Decision-making processes are distributed across
+multiple global and local decision-makers
+▪ Organizations are self-evolving entities, where actors
+belonging to the organizational system gradually modify
+this system by their daily decisions and actions
+▪ Organizations always evolve organically, rather than
+mechanically
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #13The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Business and IT People in Organizations
+▪ Business managers and IT specialists in organizations
+are partners with significantly different duties
+▪ Business managers represent a “frontend” responsible
+for analyzing the external business environment and
+determining the direction for evolving the organization
+▪ IT specialists represent a “backend” responsible for
+modifying the IT landscape to enable the evolution of the
+organization towards the direction defined by business
+▪ Put it simply, business decides what needs to be done,
+while IT responds to these decisions
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #14The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The View of a Modern Organization
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #15The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Consequences for Planning
+▪ The nature of modern organizations has two critical
+implications from the perspective of their planning
+▪ Firstly, all the ongoing changes in business and IT parts
+of an organization should be synchronized
+▪ Secondly, organizations should be planned based on the
+balance of global and local interests
+▪ Therefore, organizations should align both short-term
+and long-term changes in their IT landscapes to their
+business plans, strategies and goals
+▪ In other words, organizations should strive for so-called
+business and IT alignment
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #16The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Notion of Business and IT Alignment
+▪ The effective use of IT in organizations requires
+achieving business and IT alignment
+▪ Business and IT alignment implies that the IT goals,
+plans and systems in an organization are consistent with
+its business goals, plans and processes
+▪ Business and IT alignment increases the payoff from IT
+investments and improves overall business performance
+▪ Ideal business and IT alignment is achieved when all IT
+specialists working on IT projects act in the best interests
+of the whole organization defined by its executives
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #17The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Problem of Achieving Alignment
+▪ To achieve alignment, an organization should act as a
+single “big brain” always making best globally and locally
+optimized business and IT decisions
+▪ However, no actors are competent enough to make such
+optimal planning decisions alone and powerful enough to
+enact the subsequent implementation of these decisions
+▪ For this reason business and IT alignment requires
+collective decision-making with the involvement of
+multiple organizational actors
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #18The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Diversity of Actors Involved in Alignment
+▪ Ideal business and IT alignment requires achieving
+complete mutual agreement between all actors involved
+in decision-making and implementation of IT systems
+▪ These actors work in different areas and occupy different
+levels of the organizational hierarchy
+▪ They have different responsibilities, backgrounds,
+competences, goals, interests, concerns, planning
+horizons and mindsets
+▪ Essentially, these actors range from the C-level
+executives to junior software developers
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #19The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Business Actors and IT Actors
+▪ Business actors are knowledgeable in business
+strategy and processes, customer needs and
+preferences, competitive advantages and disadvantages
+▪ Business actors barely understand IT and consider IT-
+related talks as a meaningless techno-babble
+▪ IT actors are knowledgeable in technologies, systems,
+programming languages, databases, operating systems,
+servers, networks and other hardware
+▪ IT actors barely understand the relative importance of
+different software and hardware for the business
+performance
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #20The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Strategic Actors and Tactical Actors
+▪ Strategic actors are concerned with long-term planning,
+global trends in the external environment, organization-
+wide capabilities and disruptive influences
+▪ Strategic actors be unaware of how their high-level plans
+can be implemented or ignorant of the critical needs,
+demands and problems of separate business units
+▪ Tactical actors are concerned with carrying out specific
+processes in business units, implementing concrete IT
+systems or projects and solving urgent problems
+▪ Tactical actors may not understand how their activities
+aimed at achieving local short-term objectives contribute
+to the global long-term vision
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #21The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Internal Actors and External Actors
+▪ Internal actors are aware of their own organization and
+understand what business processes, systems and
+technologies they have
+▪ Internal actors may be unaware of new prospective
+technologies, products or industry best practices
+▪ External actors, e.g.
+consultants, vendors and
+outsourcers, are aware of the situation in their niche
+areas and understand their technologies, products and
+respective latest industry best practices
+▪ External actors may not know specific features of their
+client companies, their unique needs, peculiarities,
+legacy-driven standards or limitations
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #22The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Groups of Actors Involved in Alignment
+▪ The three aspects of diversity represent the boundaries
+disconnecting different groups of decision-makers
+▪ These boundaries prevent effective communication,
+mutual understanding and partnership between different
+actors undermining overall business and IT alignment
+▪ All relevant actors can be separated by these boundaries
+into five broad groups:
+• Business executives
+• IT executives
+• Business unit managers
+• IT project teams
+• Third parties
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #23The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Main Groups of Actors and Boundaries
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #24The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Root Cause of Misalignment
+▪ The three boundaries significantly complicate the
+communication and mutual understanding between
+different groups actors in organizations
+▪ Poor communication and the lack of mutual
+understanding lead to inadequate planning decisions
+neglecting the interests of their stakeholders
+▪ Inadequate planning in its turn results in the general
+misalignment between business and IT
+▪ Poor business and IT alignment manifests itself in all
+kinds of inefficiencies and problems
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #25The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Miscommunication Causes Misalignment
+The misalignment between business and IT caused by
+miscommunication ends up in wasted IT investments,
+disappointment in IT and reduced business performance
+The problem of alignment is an inherent and natural
+problem of establishing effective communication between
+heterogeneous groups of people with conflicting concerns
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #26The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Enterprise Architecture as a Solution
+▪ A set of special documents is used in organizations to
+facilitate communication between different groups of
+relevant actors, improve information systems planning
+and thereby achieve business and IT alignment
+▪ These documents are collectively titled as enterprise
+architecture (EA)
+▪ In other words, enterprise architecture is a collection of
+documents helping establish effective communication
+between all relevant actors involved in strategic decision-
+making and implementation of IT systems
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #27The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Value of Enterprise Architecture
+▪ For each group of relevant actors EA documents provide
+the necessary information that satisfies their interests,
+reflects their concerns and answers their questions
+▪ EA documents help different actors collaborate and
+achieve mutual understanding despite their disparate
+roles, interests and expertise
+▪ Enterprise architecture helps close the communication
+gaps existing between all groups of actors and eliminate
+the three boundaries preventing effective collaboration
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #28The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Good Communication Leads to Alignment
+Through improved communication, organizations using
+enterprise architecture are able to achieve better business
+and IT alignment and obtain more benefits from using IT
+Enterprise architecture enables successful translation of
+the strategic plans defined by business executives into the
+corresponding activities of specific IT project teams
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #29The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Lecture Summary
+▪ Today the effective control, management and planning of
+IT is a direct responsibility of business executives
+▪ Modern organizations represent complex decentralized
+socio-technical systems of business and IT
+▪ The effective organizational use of IT requires achieving
+so-called business and IT alignment
+▪ Diversity of actors involved in planning of IT systems
+undermines communication and leads to misalignment
+▪ Enterprise architecture enables effective communication,
+helps improve the quality of information systems
+planning and achieve better business and IT alignment
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #30The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+In the Next Lecture
+▪ The next lecture will focus specifically on the concept of
+enterprise architecture and discuss in more detail its key
+aspects
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #31Q ?
+UESTIONS
+Svyatoslav Kotusev, PhD
+Copyright © 2019 by Svyatoslav Kotusev.
+All rights reserved.The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Full Teaching Pack on Request
+The full teaching pack with
+19 lectures, tests and other
+materials based on the book
+The Practice of Enterprise
+Architecture: A Modern
+Approach to Business and
+IT Alignment, which can be
+freely used for teaching
+purposes, adapted or
+translated with references to
+the original, is available
+on request to the author
+(visit http://kotusev.com)
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #33
+View publication stats
+[' Another thing is funny, this was last night, you know what?
+', "I'm worth...", "I say I'm a billionaire and people think I'm lying about that, but I'm not lying.
+", 'And I want people to understand at home that I have an online educational platform called The Real World where we teach people how to make money online.
+', '18 modern wealth creation methods is $49 a month.
+', "It turns over, let's say, $13 million, $14 million a month.
+", "At $14 million a month, that's seven times multiplier, which is pretty standardized for a tech company.
+", 'I have a billion dollar company, which I own 100% mine.
+', 'I own it.
+', "So I'm a billionaire and I was sitting at home with my brother last night, spoke with Mr. Gar and we were playing Uno.
+", 'A little boot game with the A. Uno, bro.
+', "And it's serious.
+", 'Street rules, bro.
+', "We don't take Uno lightly.
+", "So we're playing Uno.
+", 'And Tristan said, when we were broke, we sat in Luton playing Uno.
+', "And now we're a billionaires.
+", 'We sit here playing Uno.
+', "Well, there's nothing changed.
+", 'Nothing changes.
+', 'Nothing changes.
+', 'Because the best thing about life is going to be spending time with the people you care about and your brother.
+', 'Okay, now I have better security.
+', "Cool now I'm smoking a cigar.
+", 'Yes, my house is nicer.
+', 'But the fundamentals of my life are basically the same.
+', "If I have any spare time at all, I'll sit with my brother and we'll do something accident.
+", "And a lot of people, especially these people who are getting rich, because they're not quality people and they don't have quality relationships.
+", "They don't have brotherhood.
+", "They don't have a network of people they can rely on.
+", "They don't have a woman who truly loves them.
+", "And they're going to try and buy it and they're going to find out that can't be done.
+", 'The best thing about my life, the reason I am so rich is not because I have money.
+', "It's because I have friends who I could give all my money to.
+", "And my girl and say I'll be seeing you in 10 years.
+", "And it be and that's money.
+", "That's well, that's rich.
+", "Most people can't do that.
+", 'These fucking nerds make a bunch of money.
+', "They can't trust anyone around them.
+", "They can't trust their chick.
+", "They can't trust their friends.
+", "They can't trust anything.
+", 'Then what do you have?
+', "It's only money.
+", 'And I think money is probably the third or fourth most important thing in the world.
+', 'It is important.
+', 'But above that is health and love and your network and people you care about.
+', "There's certainly things above money.
+", 'And if you have all of those and then you get money, you can amplify it.
+', "But I think a lot of people don't understand that money is an amplifier.
+", 'I said this often to people who ask me questions.
+', "I've had little nerds come up to me.
+", 'Go on and get rich as I bro.
+', 'You need stopping a geek.
+', "Because if you get rich, you're going to be a fucking mega geek.
+", "You're a doork.
+", 'Fix it.
+', 'Fix it.
+', "I hope you don't get rich before you fix your problem, sir.
+", "Because you're going to be in a lot of trouble.
+", "Because if you get rich, you're going to stay around your dog.
+", "You're going to go one time.
+", "You don't want that.
+", 'You need to go and fix everything about yourself.
+', 'And then maybe God will reward you.
+', "Maybe you're not rich because you're a little nerd.
+", "And he's tired of it.
+", "I'm tired of it.
+", "I've made you for five seconds.
+", "I don't want to talk to you anymore.
+", 'So you need to understand these things and build a base of life.
+', "And understand what's important.
+", 'And then you get money and allows you to amplify all of it.
+', "Here's what I'm going to ask you to take you.
+", 'Would you say that a real world is one of like, you know, the main income streams for yourself?
+', 'No.
+', "So I wouldn't say it's the main income stream.
+", "What I will say first, I'll say why it exists.
+", "I'm going to go from spiritual again.
+", 'We love it.
+', 'Why not?
+', "I've sat in jail trying to analyze which power structures want me in jail.
+", "I've sat there and said, OK, why do they want me in jail?
+", 'Well, the military industrial complex wants me in jail because I tell kids not to join the army and not to go die in a foreign war for no reason because every reason they tell you to go to war is a lie.
+', 'So the army wants me in jail.
+', "And then I sat there and thought, OK, well, the feminist in the matriarchy want me in jail because I'm inspiring masculinity, which is resistance to their power.
+", "And where there's a power struggle, there's conflict and they want me in jail because I tell men that they're allowed to have standards.
+", "I'm seeing this as a soldier.
+", "Yeah, I'm seeing this as a misogynist because I effectively say as a man, you're allowed to have a standard.
+", "You're allowed to say to a woman, no, you're not supposed to speak to me that way.
+", "I'm a full grown adult and I want to be respected in my household.
+", 'That makes me a bad person.
+', "So that's why the matriarchy wants me in jail.
+", 'And then I sit and say, what other powerful structures want me in jail?
+', 'Well, maybe the educational platforms want me in jail.
+', "Maybe the education system wants me in jail because that's the biggest scam of them all.
+", 'The biggest scam of them all is the modern education system.
+', "And I can prove to you it's a scam and they know it's a scam because that's operating side of a vacuum.
+", "If it wasn't a scam, they would allow people to take out a loan and decide what they spend on.
+", 'Do you want to start business?
+', 'Do you want to buy crypto?
+', 'Do you want to buy house?
+', 'Do you want to buy a car?
+', 'Do you want to get a degree?
+', 'Nope.
+', 'No, you can only get a degree with the loan because if they give you any choice, no one will pick a degree.
+', "Because they know it's useless because it's out of date information that takes too long to teach and you get massively in debt.
+", 'Think how fast the world moves.
+', "Think of things that are relevant now that weren't relevant three weeks ago.
+", "And you're learning things in a degree that were from 20 years ago and it takes you four years to learn.
+", "That's going to be completely irrelevant by that point.
+", 'It feels like a lifetime ago.
+', "It's been a month and you're going to sit and go to school for four years and learn things from 1996.
+", 'I think that that piece of paper is worth anything.
+', "The whole thing is a scam and they know it's a scam.
+", 'So I sit there and go, well why would the educational systems want me in jail?
+', "Yeah, I say it's a scam.
+", "But also maybe it's because I own university.com, www.university.com.
+", 'And I have an online educational platform which is the largest school on the planet.
+', "And we're teaching financial literacy and it costs $49 a month less than a NANDO's.
+", "And we'll teach kids how to make money online and they won't go to the school anymore.
+", 'So my okay, so the educational system wants me in jail.
+', 'The matriarch who wants me in jail, the military industrial complex wants me in jail.
+', "Can't wait to go to court.
+", "I'm sure it's going to be a fair trial.
+", "Can't wait.
+", "Here's what I was going to do.
+", "I'll be rotate.
+", "I can't even post this podcast on TikTok because my last TikTok can't go back.
+", "It wasn't even clips of you.
+", 'It was me and the guest speaking about you and TikTok was like, no harmful content taking down.
+', "I'll be listening to you just saying you're a nice guy.
+", "So I can't even post this on TikTok.
+", 'And I know one of the reasons for your meteorite rise was to do the fact that TikTok was getting flooded with Android.
+', 'I literally top G everywhere.
+', "But now that's not the case.
+", 'So how do you actually keep people coming back to the real world, which was once obviously a hospital university, right?
+', 'How do you get people coming back and you know, make sure they know that we are still here.
+', 'Yeah, so TikTok have gone.
+', "I'm well, so I've met us.
+", 'So if Instagram.
+', 'Yeah, everywhere.
+', 'Right.
+', "And you're right.
+", "They don't like people saying anything nice about me.
+", "They don't like my voice.
+", "They don't like a still picture of me.
+", 'Nothing.
+', "It's crazy.
+", 'Yeah.
+', 'All I do is I make it obvious to people that the platform exists.
+', 'And to further go down the rabbit hole of why that platform does exist is not for me to make money.
+', 'I can resign now.
+', 'I can retire now for the rest of my life.
+', 'If I wanted to live semi-sensibly, if I stopped buying three cars a week, I could probably still do that for a good 10 years.
+', 'But you know, I could calm down and live a very nice life.
+', "The reason I have the real world, the same reason I have the war room, because when I talk about all the problems I talk about, the astute members of the populace will sit and say to me, okay, then what's the solution?
+", "Andrew, you're right.
+", "You're right.
+", 'The legal systems of joke.
+', "They're out to keep us all enslaved.
+", "We're not allowed to have an opinion as a man.
+", 'We live in a matriarchy.
+', 'My job hates me.
+', "What's the answer?
+", "And I'm kind of, I'm a little bit disappointed in myself that I've only come up with two answers so far, but the only answers that I've ever worked for me.
+", "And perhaps there's another answer that's better than the ones I have.
+", 'But the only answers I can come up with, in fact, three answers I apologize, is one God.
+', "You need God, that's the most important thing.
+", 'The second is you need money.
+', 'And the third is that you need brotherhood.
+', 'And I believe if you have those three things, you become much harder to be damaged by the system.
+', 'When I go to jail, I can call my brother and make sure that my women and my children are taken care of.
+', 'I can have someone to look after them.
+', 'I have a bunch of money so they can be taken care of.
+', 'I can get the best lawyers.
+', 'I have influence.
+', 'So when they lie about me on the BBC, I can tweet and call them a liar and get more views than the BBC does.
+', 'Yeah, literally.
+', 'More views than the BBC.
+', 'And rotate this is, I can just say lie, fake news, boom, done.
+', 'So I can fight against them.
+', 'Well, how do I fight against them?
+', 'I fight against them with my influence, which is based on my brotherhood and the people I work with inside the war room and the money I have.
+', 'And God.
+', 'So when I created the real world, the primary objective is for people to learn how to make money online so they can escape the matrix.
+', "Because if you have a job, you're going to be controlled.
+", "If you have a job, you can't have an opinion anymore.
+", "You can't talk.
+", "You can't say certain things online, you lose your job.
+", "You can't not get the vaccine, you lose your job.
+", "You can't not wear a mask, you lose your job.
+", "You have to obey, you have to comply or you can't pay the mortgage.
+", "If you make money for yourself online, you're now harder to control.
+", "So when they come along with their infantile ideas and try and force you to perpetuate and purport them, you can sit and say, no, I'm making my own money.
+", "You're a liar.
+", "So that's the reason I made the real world and that's the reason I made it so cheap, 49 dollars a month so people can join and learn how to make money online.
+", "And the reason there's the war room is because of brotherhood because I believe that if you analyze any period of human history, including gangus con as we just discussed, it's always been about brothers.
+", 'What was gangus con?
+', 'It was a bunch of his boys, bunch of your boys get on a horse.
+', "It's concrete.
+", 'We still do it.
+', 'You and your boys, you all get together.
+', "You go, I'm the cause of the girls that is the same.
+", "I'm going to get on a horse.
+", "Let's ride that way.
+", "What's over there?
+", "Don't know who cares.
+", "We'll find out.
+", "We'll take it.
+", "So brotherhood has always been what conquest is about and it's also always been a small band of brothers to resist evil.
+", "Let's say when gangus con got to Vienna, I'm not going to discuss who's the good guy and who's the bad guy.
+", "It's just the natural law of the universe that conflict appears.
+", 'But the people who are defending Vienna were what?
+', 'Brothers, brotherhood, get your sword.
+', 'Who are they?
+', "Let's go.
+", "So if you're in a war and I believe we are and I think anyone who's looking at life as anything other than war can't be competitive and is destined to be decimated, if you understand you're in a war, then you need brotherhood and you need money.
+", 'What is Ukraine keep asking for money?
+', 'You need money to fight and you need men you can count on, which is why I have the real world that teaches people how to make money online and the war rooms you can join a fraternity.
+', 'You have the men.
+', "That's right because I believe you start to make a bunch of money and you get a bunch of men you can rely on.
+", 'You then become much harder to enslave.
+', "That's the reason those two things exist at cobertake.com and that's the reason I tell people to join them.
+", "And it's not because I'm philanthropic.
+", 'I want to make it clear.
+', "I know the world thinks I'm the nicest man ever.
+", "But they don't think that.
+", "I'm just going to say it.
+", "But it's not because I'm philanthropic.
+", "I'm not going to sit here and say I'm trying to help you guys at home.
+", "No, if you're a broke loser, you can stay a broke loser.
+", "That's completely fine by me.
+", 'My cars need washing.
+', 'You can wash them.
+', "Don't care.
+", "But I don't care.
+", "I don't care.
+", "But if I'm going to try and crack the matrix, I can't do it by myself.
+", 'So I want all of the people who agree with what I say and think like I think.
+', 'To be rich.
+', 'Andrew, you have a thousand fans.
+', 'You want poor fans or rich fans.
+', 'I want rich fans.
+', 'Yeah, of course.
+', 'Andrew, you have a thousand fans.
+', 'Do you want them to all know each other and be part of a brotherhood and be part of a fraternity or do you want to be independent and isolated?
+', 'No, each other.
+', "That's all it is.
+", "I'm helping my, I'm raising an army.
+", "I'm Vegas.
+", 'Come on.
+', 'Get on the horse, guys.
+', 'Get on the horse.
+', "Let's go.
+", 'Going to fight.
+', "And you can join and I'll make your life better by extension.
+", "That's one of the greatest things about my brand.
+", "I think it's probably one of the reasons I have no problem with the fact they're going to throw me in jail, et cetera.
+", "Because I know I'm living for a purpose.
+", "I know that just like you said earlier on in this podcast, if you're an andro-tate fan, your life improves.
+", "And that's a good feeling.
+", "If you're a fan of a normal streamer, your life doesn't improve.
+", "If you're a fan of Logan Paul or KSI or these idiots, well then what do you get?
+", 'You get sugary drinks and WWF.
+', 'Great.
+', "You don't get anything.
+", "I know that if you're a fan of me, your life genuinely improves.
+", 'And in the karmic circle of the universe, all of that positive energy will end up back with me.
+', "There's no way you can take thousands, perhaps millions of people and make them feel more dedicated, more motivated, more happy, more positive, more inspirational.
+", 'You can do all of those things and not benefit it from it in some way.
+', 'What do they put me in jail or not?
+', "There's good vibes in the universe.
+", "I'll pick them up.
+", "It's fine.
+", "And I'll walk out, tell the BBC, hello, speak to Lucy, help me problem.
+", "So I am very proud of myself because I know I'm doing the right thing.
+", "And that's the reason I refuse to shut up.
+", 'Because if I was only entertaining people, I could shut up.
+', "Okay, there's no point going to jail to make people laugh.
+", "No, but there is a point in going to jail to make so new people's lives better.
+", "So sorry, as a professional, to go back to why the real world exists and how I get people to go there, I don't try and sell it to anyone.
+", "That's actually a really good point.
+", "It's a good question you asked me.
+", "Because I'm just trying to see it.
+", "No, no, it's a good question because if I am a billionaire and I am obviously monumentally financially successful, and I've just explained to people at home why I want them to join, because I want them to be rich.
+", 'I have a vested interest in them being rich.
+', 'Your university professor does not have a vested personal interest in you becoming rich.
+', "He doesn't care he's doing a job.
+", 'I have a vested personal interest in trying to make my fans as rich as possible.
+', 'Never else in your life is a billionaire going to care about making you money.
+', 'Ever.
+', 'Only now.
+', "It costs less than an ando's, it's $49 a month.
+", "If you still don't join, within your dumbass.
+", "I don't want you to join anyway.
+", "I've mentioned it enough times I feel.
+", "I also feel like now I'm at a point where I'm above getting people to join.
+", "It exists and if you're not a loser, you'll join because you want to save your life.
+", "If you don't want to save your life, you can go stay a slave.
+", "I'm trying to come at an point where, for example, you were once the most Googled man on the whole of the earth.
+", 'All these things, the TikTok clips, the podcast, everything, Instagram accounts, Twitter, wherever you name it.
+', 'They were all a big funneling system for that.
+', 'Now where are the cases, these platforms of Band-U, apart from Twitter, X, whatever you want to call it?
+', "It's like how can you get back to being that most famous man, the most Googled man on the earth?
+", "I don't know if I need to be anymore because unfortunately, the idiot who made that documentary was incorrect.
+", "I'm not chasing fame.
+", "I'm doing what I believe to be right.
+", "I'm going to speak to the people I want to speak to.
+", 'I wanted to see you.
+', "That's why we're doing this podcast.
+", 'I get 10 podcasts for a day.
+', "I don't do them because I need to do them all.
+", 'I want to do this one.
+', "So I'm doing it.
+", "It's fun.
+", 'And the people who join the real world who want to be freed from the matrix will join.
+', "If nobody joins, that's fine.
+", "I don't need the money.
+", 'We have over 200,000 students anyway.
+', "I mean, I know what you're saying.
+", "I don't wake up at the, how do I get views?
+", "I don't care anymore.
+", 'I wake up.
+', "I do what I'm supposed to do.
+", 'I train hard.
+', 'I see my children.
+', 'I work.
+', 'I make a bunch of money.
+', "If I have a platform to speak on, I'm going to tell the truth.
+", "If I tweet something, it's going to be the truth.
+", 'And God will do the rest.
+', 'And it is what it is.
+', 'And there are only reason these things exist to help the people at home be valuable fans of mine.
+', "And I think that's an important point in terms of fans.
+", 'I want to have val- I want to have valuable fans.
+', "I don't, if I'm going to raise an army, I want men who could fight.
+", "No, you don't want broken.
+", "If you're going to raise an army, you want me to, wait, do you want a bunch of men who can't fight?
+", 'No, you want a menu can fight.
+', "So if you're going to join my army, you need to be able to train, work hard, and be able to fight.
+", "I don't want to go to war with a bunch of idiots.
+", "So if you're sitting at home and you're working in McDonald's and you can't escape the rat race, you're not much good to me.
+", 'So then why are you watching my stuff?
+', 'Why would you sit here and watch me speak for hours?
+', 'And then do you fuck all the time?
+', 'And then no go and join the school and get rich.
+', 'You must be out your mind.
+', 'But there are people who do this.
+', "And there are some people who you just can't help.
+", "There are, there's a huge percentage of the populace.
+", 'Which?']
+[" I'd rather say to this year, as we wrap up with this podcast, I want to ask you this question.
+", "Let's just say the Matrix do pull a third strike on you and they succeed.
+", 'How do you want the world to remember you?
+', 'I want the impact you want to leave from people.
+', "I feel like I've good to good life.
+", "I'm 37 and I would argue that I've lived more life than most hundred year old men.
+", "I've done everything, been everywhere.
+", "I've made a mark, made an impact.
+", "What's life for?
+", 'I have children and to leave an impact and to teach your children things.
+', 'Bunch of kids, done my job.
+', "So I don't want anyone to think I'm sad about it.
+", 'It was a decision I made.
+', 'I feel like as a man you should always live for something bigger than yourself.
+', 'I feel like that the true masculine imperative is to find a battle worth fighting for.
+', "That's why men have always gone to war and some men died.
+", "That's how it's always been for men.
+", "As a man your life shouldn't be about quantity.
+", 'It should be about quality.
+', 'And trying to live as long as possible, but being that porridge goo in the middle is not as important as living a short or amount of time and getting to be the T-bone steak.
+', "So I want people to understand that I believe that I was doing the right thing and I'm not a perfect person.
+", 'Perhaps I made some mistakes, but I believe those doing the right thing at the time.
+', "And I don't have any regrets about it.
+", 'And that I would like people to learn from my example and live true to themselves.
+', "And I think that the world can be a beautiful place when you're true to yourself.
+", 'I really think that a lot of depression and a lot of sadness and a lot of dis-contentment with consciousness comes from the very simple fact that most men are not true to themselves.
+', 'And I say that.
+', 'I can say this in a funny way or I can say this in a serious way.
+', 'Give us both.
+', 'Let me choose funny first.
+', 'You want a fuck of bitch?
+', 'I love my girlfriend with all my heart.
+', 'Yeah, I want a fucker today.
+', "I don't love her.
+", 'I love you.
+', "I'm sorry.
+", "When I'm not supposed to want to do that, I can pretend I don't want to do it.
+", "I can listen to my woman tell me that's wrong and then be told I may mature and all this girl.
+", 'I want to do what I want to do.
+', "If I want to tell a man to get to go away in a less polite way, I'll do it.
+", "If I want to fire a member of staff, I'll fire them on the spot.
+", "I don't care.
+", "I don't care.
+", "Because I know if I don't do what I want, the resentment inside of me eats away at me.
+", 'Those men are living lives not doing what they want.
+', "Please understand, they don't get to talk to the girls they want to talk to because they're not important enough.
+", "They don't get to hang around with the guys as often as they want because they have to work a job they don't like doing.
+", "They don't get to tell their woman to be quiet because she'll leave them.
+", "He doesn't get to tell his boss to go away because he'll get fired.
+", 'He just sits at his car, quiet and meek, filled with rage.
+', 'And the best thing about being rich and important and I guess the truest way to be happy is a man is to be true to yourself, which is good and bad.
+', 'I get to give to charity.
+', 'I have a charity tape pledge.com and I donate millions of dollars a year to charity and feed children.
+', 'I love my kids.
+', 'I love my friends.
+', 'I love the people around me.
+', "And if I don't like someone, I tell them to get fucked.
+", 'And I say it right to their face in their eye.
+', "And if they want to do something about it, it's up to them.
+", "And I'm prepared for that too.
+", 'And I get to live true to my masculine and paratives in all ways.
+', "I don't have to sit and be fake or lie or get along with someone.
+", 'You keep it real.
+', 'I keep it real.
+', 'And that is why so many men are unhappy today.
+', "They don't get to keep it real.
+", 'Bro, you know, I find it truly amazing.
+', 'There are men out there who are afraid to tell their own woman, leave me alone.
+', "I'm busy because she'll give him headache.
+", 'It does hurt to me that way.
+', "And he's home.
+", 'Babe, please let me just work now.
+', "No, I'm working.
+", 'Leave me alone.
+', "I love you very much, but I'm working.
+", 'Leave me alone.
+', "There are men who don't even get to be a man in their own house.
+", "They don't even get to be a man in their own house.
+", "They don't wonder you're depressed.
+", "No wonder you're miserable.
+", "I'm talking about being the king of earth.
+", "You don't have to be the king of earth.
+", 'At least be the king of your house.
+', 'If someone breaks into that house, you have to die to protect that woman.
+', "You're paying the bills.
+", 'And you said leave me alone for five minutes.
+', 'You should give him you attitude.
+', "Bro, you said don't post our location on Instagram.
+", 'They want to kill me.
+', "And she's worried about her likes.
+", "Most people's lives.
+", 'Most dudes relationships.
+', 'Their lives are so fucked up.
+', "They don't even realize.
+", "No wonder you're sad.
+", 'Look in the mirror.
+', 'Look in your own eyes.
+', "I'd be miserable if I was these people.
+", "If I have a girlfriend, that's, I guess, it's one of the best things about status.
+", 'I know this is a bit off topic because you asked me how I want to be remembered.
+', 'But the answer is I want to live true to my masculine imperatives.
+', "But if I have a girlfriend and I get a girlfriend and I like her very much and we're together.
+", "And I say, we're together now.
+", "You don't need Instagram.
+", 'You know what she says?
+', 'Cool.
+', 'And deletes it.
+', "I don't have to force her.
+", "I don't have to tell her.
+", 'You have to control her.
+', 'You have to control her.
+', 'I just say it.
+', "And she's like, yeah, because she respects me and she knows I'm worth more than any Instagram page.
+", "If you say to your chick, delete Insta, she's like, why am I in sex?
+", 'You mean me?
+', "I mean, she needs it for some, I don't know.
+", "But I'm saying, if you're not even in most men, I think most men desire respect.
+", 'I think we all desire respect innately.
+', "But if you're not in charge of your house and you're not in charge of your own relationship and you're working for someone else, you're not in charge of your business.
+", "You're not in charge of your government because they're out to rec.
+", "You're like, what are you doing?
+", "Of course you're sad.
+", "I'd rather be me and get punched in the face by the matrix and get back up or get punched into face and keep smiling.
+", 'But at least I have some semblance of control of my empire.
+', "At least most of these men haven't got anything.
+", "And that's why they're so sad.
+", 'And I would hate to be remembered as one of them.
+', "But they won't be remembered at all.
+", "And that's why when they die, there'll be a number.
+", "And there's always going to be numbers and names on this planet.
+", 'And the names have always had difficult lives.
+', 'If you look back at any battle in history, they will say, 13,000 people die.
+', 'And X person.
+', 'And one of them was him.
+', 'Yeah.
+', "I'm going to be that guy.
+", "And avoiding all of the hardship it takes to become that guy is truly insane because you'll just be one of the 13,000.
+", "You'll still die.
+", "Like I said earlier about the man who doesn't want to fight things to wars go away.
+", "No, that's the reason I'm fighting this war against a matrix because they're coming for all of us.
+", 'If any man is watching this, I may be charging at the gunfire first.
+', 'I may be leading the charge and I may be getting hurt.
+', "You're somewhere at the back and you feel safe.
+", "They're coming for all of us.
+", 'So at least I get to go down as a name as opposed to dying as a number.
+', "So don't worry about me dying a little bit early.
+", "I'm worried about yourself dying and not being remembered at all.
+", 'And you take on a thank you very much coming on the podcast.
+', 'Thank you, sir.
+', "And guys, I know I've probably been quiet this episode, but when you have someone like yourself on tape, God gave us one mouth and two ears for reasons.
+", "So all we've got to do is listen.
+", 'Thank you, sir.
+', "So now I'm excited to have Tristan on and listen to what he says.
+", "It's all thank you, bro.
+", 'Have you got any questions?
+', 'My voice just completely cracked today.
+', "Have you got any questions that you'd like me to ask Tristan?
+", "Ask him who's better at Uno.
+", "That's important.
+", 'I want to see if he tells you the truth.
+', 'Let me tell you all guys something at home.
+', 'I have never lost a game of Uno.
+', 'I am undefeated world champion, Centennial three time world champion.
+', 'I was in jail three life sentences.
+', 'Just me by myself a thousand people against me in the biggest Uno game ever played in history.
+', 'A thousand people with no cards.
+', 'I beat them.
+', 'They let me out.
+', 'My three life sentences.
+', 'All of them had to get the bus to Jupiter because they were stupider than me.
+', 'And I stayed here on earth as the champ.
+', "You can't play greens against me.
+", "If you play greens at any point, I'm guaranteed to beat you.
+", "Blues and Reds don't work.
+", 'Uno world champion.
+', "We'll be all of that Tristan.
+", 'So he knows.
+', "Tell him he's been the Jupiter.
+", "He's stupider.
+", 'I beat the jail three life sentences.
+', 'I got out because of my Uno prowess.
+', 'I have never lost a game of Uno.
+', "I'm going to play that clip to him.
+", 'Any other questions for him?
+', "It's all the matters, bro.
+", 'Andrew, I want to appreciate you.
+', 'Thank you very much coming on the podcast.
+', 'And hopefully I wish all this issue of yourself and the law and all that sort of stuff can go to shit and basically come back to normal.
+', 'You get your freedom back.
+', "And then we'll link up in the bio.
+", 'Sandy Rabio wherever we may be at the time.
+', "Let's do part three.
+", 'Part three.
+', 'Exactly that.
+', 'Guys, make sure you subscribe, like, comment.
+', "Also, I was going to plug your social button, even though if you can't do that anymore.
+", 'Yeah, yeah.
+', 'So I am.
+', "I'll do a quick plug here.
+", "Guys, if you liked what I said today, it's a tip of the iceberg.
+", "I have to censor myself so they don't kill me right away.
+", 'So if you want to hear more about what I have to say, go to corporatetape.com.
+', 'I have a completely free email list.
+', 'You can sign up there.
+', 'If you want to learn how to make money online, you can join the real world.
+', 'And if you want to have fraternity of brothers who understand the truth about the enslavement which is coming for us all, you can join the war room.
+', 'All of those things are accessible at coberttape.com.
+', 'If you want to really piss off the educational establishment, you can go to university.com, which also leads to the real world, but using that website really makes them mad.
+', "So if you've wasted money on a degree at any point in your life, that's how you get retribution.
+", 'Join the real world by university.com.
+', "And I'm only on Twitter at coberttape.
+", 'Shout out to Elon Musk.
+', 'Shout out to Elon.
+', 'Alright guys, hope you enjoyed it.
+', 'Can I see you in the next one?
+', 'Peace.
+', 'Lovely.
+', 'Peace.
+', 'Thanks guys.
+', "Hopefully it doesn't get bad.
+", "I'll see."]
+▪ For instance, in the United States private business
+investments in IT increased from less than 100 billion
+dollars in 1980 to more than 500 billion dollars in 2010
+▪ Moreover, the proportion of IT investments in total capital
+investments grew from 32% in 1980 to 52% in 2010
+▪ Over the decade from 2007 to 2017 average IT budgets
+as a percentage of revenue increased almost by 75%,
+from 3.50% of revenue in 2007 to 6.08% of revenue in
+2017
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #4The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+IT Systems Are Becoming More Powerful
+▪ Over the time, information systems become more
+powerful, ubiquitous, diverse and affordable
+▪ The computing power and storage capacity of IT
+systems are increasing exponentially
+▪ Business applications now can be deployed on
+dedicated servers, hosted in the cloud, run in web
+browsers and even installed on handheld mobile devices
+▪ Packaged systems available today include various ERP,
+CRM, SCM, BI, ECM, KM and other offerings
+▪ The relative price of information systems is gradually
+decreasing making different IT systems more accessible
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #5The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Use of IT Systems in Organizations
+▪ The productive use of information systems for improving
+the quality of business processes in organizations is not
+equivalent merely to installing the appropriate software
+and hardware
+▪ Instead, the productive use of information systems
+always requires consistent and coordinated changes in
+three broad organizational aspects:
+• People
+• Processes
+• Technology
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #6The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+People, Processes and Technology
+▪ People aspect:
+• Providing the necessary education and training to system users
+• Explaining benefits of the new system, coping with resistance
+• Dealing with political, cultural and power redistribution issues
+▪ Processes aspect:
+• Introducing new business processes enabled by the system
+• Modifying existing business processes affected by the system
+• Modifying relevant decision-making procedures and rules
+▪ Technology aspect:
+• Setting up the new IT system and required infrastructure
+• Making the new system available to its end users
+• Providing technical and help desk support to end users
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #7The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Business Benefits of IT Systems
+▪ The proper use of information systems can deliver
+numerous business benefits and open multiple
+innovative opportunities to organizations:
+• Improve or automate business processes
+• Reduce costs and delays
+• Enable analytical capabilities
+• Support executive decision-making
+• Enable information sharing with partners, e.g.
+in supply chains
+• Facilitate effective knowledge exchange between employees
+• Provide new customer communication channels
+• Create new innovative products and services
+• Develop entirely new business models
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #8The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+IT Systems and Competitive Advantage
+▪ Information systems can help organizations execute their
+business strategies and gain strategic competitive
+advantage:
+• Operational excellence and cost leadership – IT systems can be
+used to automate operations, eliminate delays and deviations,
+avoid manual labor and achieve predictable business processes
+• Product differentiation and leadership – IT systems can be used
+to facilitate the design of new products, support teamwork and
+creativity or provide unique innovative products and services
+• Customer intimacy and focus – IT systems can be used to collect
+and store customer data, analyze customer preferences, target
+specific customer groups and develop highly customized offers
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #9The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Disruptive Technologies
+▪ The dynamic technological environment also poses
+significant threats to many organizations
+▪ So-called disruptive technologies have the potential to
+make entire industries irrelevant and reshape the global
+competitive landscape:
+• Yesterday the publishing industry had been disrupted by
+electronic books (e-books), while the recording industry had
+been disrupted by the Internet-based delivery of audio files
+• Today the propagation of mobile devices, big data, Facebook,
+YouTube and other social media disrupts many industries
+• Tomorrow the Internet of things, industrial 3D printing, artificial
+intelligence, blockchain-based technologies, electric and
+driverless cars will disrupt many conventional industries
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #10The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+IT Systems and Compliance
+▪ The proper use of information systems in organizations
+became a subject of strict regulatory control
+▪ National governments enacted legislative compliance
+acts intended to regulate access, sharing and protection
+of sensitive information stored in corporate IT systems,
+e.g.
+SOX in the USA and GDPR in the European Union
+▪ Organizations are liable for incompliance with various
+data protection acts established in their jurisdictions
+▪ Therefore, information systems provide numerous
+benefits, opportunities, threats and obligations to
+organizations and their management is now a direct
+responsibility of business executives
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #11The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Organizations as Socio-Technical Systems
+▪ Many or even most organizations today essentially
+experience the convergence of business and IT
+▪ Business capabilities of a modern organization are often
+determined largely by the capabilities of its IT systems
+▪ Modern organizations represent complex socio-
+technical systems consisting of diverse but interacting
+human actors, business processes and IT systems
+▪ Business activities and IT landscapes enabling these
+activities represent “two sides of the same coin”
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #12The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Organizations as Evolving Systems
+▪ Modern organizations represent decentralized, dynamic
+and constantly evolving socio-technical systems
+▪ Decision-making processes are distributed across
+multiple global and local decision-makers
+▪ Organizations are self-evolving entities, where actors
+belonging to the organizational system gradually modify
+this system by their daily decisions and actions
+▪ Organizations always evolve organically, rather than
+mechanically
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #13The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Business and IT People in Organizations
+▪ Business managers and IT specialists in organizations
+are partners with significantly different duties
+▪ Business managers represent a “frontend” responsible
+for analyzing the external business environment and
+determining the direction for evolving the organization
+▪ IT specialists represent a “backend” responsible for
+modifying the IT landscape to enable the evolution of the
+organization towards the direction defined by business
+▪ Put it simply, business decides what needs to be done,
+while IT responds to these decisions
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #14The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The View of a Modern Organization
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #15The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+Consequences for Planning
+▪ The nature of modern organizations has two critical
+implications from the perspective of their planning
+▪ Firstly, all the ongoing changes in business and IT parts
+of an organization should be synchronized
+▪ Secondly, organizations should be planned based on the
+balance of global and local interests
+▪ Therefore, organizations should align both short-term
+and long-term changes in their IT landscapes to their
+business plans, strategies and goals
+▪ In other words, organizations should strive for so-called
+business and IT alignment
+SK Based on the book The Practice of Enterprise Architecture: A Modern Approach to Business and IT Alignment #16The course of lectures on enterprise architecture by Svyatoslav Kotusev (kotusev@kotusev.com)
+The Notion of Business and IT Alignment
+▪ The effective use of IT in organizations requires
+achieving business and IT alignment
+▪ Business and IT alignment implies that the IT goals,
+plans and systems in an organization are consistent with
+its business goals, plans and processes
+▪ Business and IT alignment increases the payoff from IT
+[' Hi, how are you doing?
+', 'Hope you are having a nice time and enjoying your old day and making good use of it.
+', 'Thank you.']

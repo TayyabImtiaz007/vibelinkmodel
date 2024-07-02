@@ -1,0 +1,17 @@
+app.py
+app2.py
+app3.py
+app4.py
+main.py
+test.db
+vocabularies.txt
+vocal.txt
+chroma_storage
+inputs
+logs
+.venv
+venv
+.env
+tmp/
+inputs/
+services/chat/query_service.py

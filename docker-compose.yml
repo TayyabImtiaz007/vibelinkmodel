@@ -1,0 +1,16 @@
+version: '2'
+services:
+  jacobryanmedia-services:
+    restart: always
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: gunicorn JacobRyanMedia.wsgi:application --bind 0.0.0.0:8000 --workers 4 --threads 8 --timeout=3600
+    expose:
+      - "8000"
+    environment:
+      DEBUG: 'true'
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app  # Update this to match the path where your Dockerfile and application code reside

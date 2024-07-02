@@ -1,0 +1,29 @@
+version: 0.2
+phases:
+  install:
+    runtime-versions:
+       python: 3.11
+  pre_build:
+    commands:
+      - python3 --version
+      - pip3 install --upgrade pip
+      - pip3 install --upgrade awscli
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Building the Docker image...
+      - ls
+      - aws ecr get-login-password --region us-west-2 | docker login --username AWS --password-stdin 451586479694.dkr.ecr.us-west-2.amazonaws.com
+      - docker build -t jacobryanchatbot .
+      - echo Build completed on `date`
+      - docker tag jacobryanchatbot:latest 451586479694.dkr.ecr.us-west-2.amazonaws.com/jacobryanchatbot:latest
+
+  post_build:
+    commands:
+      - echo Pushing the Docker image...
+      - docker push 451586479694.dkr.ecr.us-west-2.amazonaws.com/jacobryanchatbot:latest
+
+# docker build -t jacobryanchatbot .
+# docker tag jacobryanmedia-jacobryanmedia-services 451586479694.dkr.ecr.us-west-2.amazonaws.com/jacobryanchatbot:latest
+# docker push 451586479694.dkr.ecr.us-west-2.amazonaws.com/jacobryanchatbot:latest
+
